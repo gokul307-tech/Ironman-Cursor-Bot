@@ -61,6 +61,19 @@ The robot responds to the user's mouse movement, tracks the cursor with its head
 
 ---
 
+## 🚀 Deploy on Vercel
+
+Import this repository in Vercel and use the detected Vite settings:
+
+- **Framework Preset:** Vite
+- **Build Command:** `npm run build`
+- **Output Directory:** `dist`
+- **Install Command:** `npm install`
+
+The included `vercel.json` also sets these options explicitly.
+
+---
+
 ## 📂 Project Structure
 
 ```text

@@ -1,5 +1,5 @@
-@"
 node_modules/
 dist/
 .env
-"@ | Out-File -Encoding utf8 .gitignore
+.env.local
+.vercel/
